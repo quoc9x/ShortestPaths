@@ -1,0 +1,77 @@
+E:\Project\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe.config
+E:\Project\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe
+E:\Project\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.pdb
+E:\Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csprojAssemblyReference.cache
+E:\Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.frmMain.resources
+E:\Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.Properties.Resources.resources
+E:\Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.GenerateResource.cache
+E:\Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.CoreCompileInputs.cache
+E:\Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.exe
+E:\Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.pdb
+E:\Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.ResolveComReference.cache
+Z:\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csprojAssemblyReference.cache
+Z:\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.ResolveComReference.cache
+Z:\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.frmMain.resources
+Z:\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.Properties.Resources.resources
+Z:\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.GenerateResource.cache
+Z:\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.CoreCompileInputs.cache
+Z:\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.exe
+Z:\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.pdb
+Z:\Working\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe.config
+Z:\Working\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe
+Z:\Working\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.pdb
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe.config
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.pdb
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csprojAssemblyReference.cache
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.ResolveComReference.cache
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.frmMain.resources
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.Properties.Resources.resources
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.GenerateResource.cache
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.CoreCompileInputs.cache
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.exe
+Z:\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.pdb
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe.config
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.pdb
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csprojAssemblyReference.cache
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.ResolveComReference.cache
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.frmMain.resources
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.Properties.Resources.resources
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.GenerateResource.cache
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.CoreCompileInputs.cache
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.exe
+E:\Project\Working\DuongDiNganNhat_BFS\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.pdb
+E:\Project\Working\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe.config
+E:\Project\Working\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe
+E:\Project\Working\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.pdb
+E:\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csprojAssemblyReference.cache
+E:\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.ResolveComReference.cache
+E:\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.frmMain.resources
+E:\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.Properties.Resources.resources
+E:\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.GenerateResource.cache
+E:\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.CoreCompileInputs.cache
+E:\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.exe
+E:\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.pdb
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe.config
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.pdb
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csprojAssemblyReference.cache
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.ResolveComReference.cache
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.frmMain.resources
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.Properties.Resources.resources
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.GenerateResource.cache
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.CoreCompileInputs.cache
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.exe
+G:\DATA_BA\E\New folder\Project\Working\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.pdb
+E:\1_Work\Work-Project\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe.config
+E:\1_Work\Work-Project\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.exe
+E:\1_Work\Work-Project\DuongDiNganNhat\bin\Debug\DuongDiNganNhat.pdb
+E:\1_Work\Work-Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csprojAssemblyReference.cache
+E:\1_Work\Work-Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.ResolveComReference.cache
+E:\1_Work\Work-Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.frmMain.resources
+E:\1_Work\Work-Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.Properties.Resources.resources
+E:\1_Work\Work-Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.GenerateResource.cache
+E:\1_Work\Work-Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.csproj.CoreCompileInputs.cache
+E:\1_Work\Work-Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.exe
+E:\1_Work\Work-Project\DuongDiNganNhat\obj\Debug\DuongDiNganNhat.pdb
